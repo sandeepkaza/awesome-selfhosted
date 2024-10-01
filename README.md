@@ -10,6 +10,8 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 
 See [Contributing](#contributing).
 
+## [Buy Me A Coffee](https://buymeacoffee.com/sandeepkaza)
+
 --------------------
 
 ## Table of contents
@@ -2138,10 +2140,4 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 
 ## Contributing
 
-Contributing guidelines can be found [here](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md).
-
-## License
-
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
-The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+## [Buy Me A Coffee](https://buymeacoffee.com/sandeepkaza)
